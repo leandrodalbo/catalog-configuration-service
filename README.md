@@ -1,3 +1,3 @@
 # Catalog Configurations Service
 
-Using Spring Cloud Config to provide centralize configurations to other components
+Using Spring Cloud Config to provide centralized configurations to other components
